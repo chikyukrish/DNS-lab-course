@@ -4,7 +4,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/chikyukrish/DNS-lab-course)
 
 ## Course Penetration Testing
-A Machine to learn DNS Enumeration penetration testing, you can download this Machine **[here](https://)**.
+A Machine to learn DNS Enumeration penetration testing, you can download this Machine **[here](https://mega.nz/file/6GQglLrZ#2IAlV9AkNkjr9cQCUPYnoVpLG2kK0eaMlwgRLG4PExM)**.
 Before you start learning, you must understand the basic Linux commands and Networking.
 ## WARNING
 This is a vulnerable system, **DO NOT** run this OS in a production enviroment !!!
