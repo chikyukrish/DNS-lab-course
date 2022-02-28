@@ -8,6 +8,4 @@ A Machine to learn DNS Enumeration penetration testing, you can download this Ma
 Before you start learning, you must understand the basic Linux commands and Networking.
 ## WARNING
 This is a vulnerable system, **DO NOT** run this OS in a production enviroment !!!
-## ROOT LOGIN
-- Username : root
-- Password : *******
+
