@@ -10,4 +10,4 @@ Before you start learning, you must understand the basic Linux commands and Netw
 This is a vulnerable system, **DO NOT** run this OS in a production enviroment !!!
 ## ROOT LOGIN
 - Username : root
-- Password : cici123
+- Password : *******
